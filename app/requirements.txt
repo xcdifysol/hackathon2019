@@ -1,0 +1,7 @@
+Django
+Pillow
+requests
+dialogflow
+python-dotenv
+django-cors-headers
+opencv-python

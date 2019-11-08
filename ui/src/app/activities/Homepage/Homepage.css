@@ -1,0 +1,209 @@
+.homepage h3 {
+  background-color: lightblue;
+  color: darkslateblue;
+}
+.bottom-padded-row{
+  height: -webkit-fill-available;
+}
+.astra-container{
+  margin-top: 55px;
+}
+.astra-container.center{
+  text-align: center;
+}
+.astra-welcome-text p{
+  color: #14b6ef;
+  font-size: 60px;
+  font-family: monospace;
+  font-weight: 900;
+}
+.astra-welcome-text small{
+  font-size: 19px;
+  color: #696868;
+  font-weight: 600;
+  text-decoration: overline;
+}
+.astra-listen-control{
+  position: absolute;
+  right: 50px;
+  bottom: 40px;
+}
+.astra-listen-control button{
+  border: 0;
+  background: #14b6ef;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  box-shadow: 2px 2px 6px #211839;
+  color: white;
+  font-size: 22px;
+  margin-right: 12px;
+}
+.astra-listen-control button:hover, 
+.astra-listen-control button:focus,
+.astra-listen-control button:visited{
+  border: 0;
+  background: #14b6ef;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  box-shadow: 2px 2px 6px #211839;
+  color: white;
+  font-size: 22px;
+}
+.astra-listen-control button i{
+  line-height: 50px;
+  vertical-align: text-top;
+}
+.astra-listen-control .ant-btn:hover, 
+.astra-listen-control .ant-btn:focus, 
+.astra-listen-control .ant-btn:active, 
+.astra-listen-control .ant-btn.active{
+  background: #14b6ef;
+  color: #fff;
+}
+.astra-bot-container{
+  position: fixed;
+  width: 320px;
+  height: 100%;
+  bottom: 0px;
+  left: 0px;
+  border-right: 1px solid #14b6ef;
+  border-radius: 0px;
+  box-shadow: 3px 0px 7px #dadada;
+}
+.astra-bot-image{
+  margin-bottom: 10px;
+}
+.astra-bot-image img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.astra-bot-container .bot-transcript{
+  position: relative;
+  height: auto;
+  background: #14b6ef;
+  padding: 5px;
+  box-shadow: 0px 0px 2px 0px #4a6afe;
+  margin: 5px 12px;
+}
+.astra-bot-container .bot-transcript:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 10px solid #14b6ef;
+  border-right: 10px solid transparent;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid #14b6ef;
+  right: 19px;
+  top: -19px;
+}
+.astra-bot-container .bot-transcript p{
+  font-style: italic;
+  color: #fff;
+  margin: 0;
+  font-weight: 600;
+}
+.astra-bot-container .user-transcript{
+  position: absolute;
+  width: -webkit-fill-available;
+  bottom: 6px;
+  height: auto;
+  background: #696868;
+  padding: 5px;
+  margin: 5px 12px;
+  box-shadow: 0px 0px 2px 0px #4a6afe;
+  min-height: 35px;
+}
+.astra-bot-container .user-transcript p{
+  font-style: italic;
+  color: #fff;
+  margin: 0;
+  font-weight: 600;
+}
+.astra-product-list{
+  
+}
+.astra-product-contain{
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+.astra-product-image{
+  overflow: hidden;
+}
+.astra-product-image img{
+  height: 200px;
+}
+.astra-product-description{
+  text-align: left;
+  background: #14b6ef6e;
+  padding: 5px 15px;
+  box-shadow: 0px 0px 2px #696969;
+  margin-top: 10px;
+}
+.astra-product-description p{
+  font-size: 18px;
+  margin: 0;
+  font-weight: 500;
+}
+.astra-product-description small{
+  color: #4a4747;
+}
+.astra-product-description .astra-price-text{
+  margin: 0;
+  color: #4a6afe;
+  font-size: 16px;
+  font-weight: 600;
+}
+.astra-product-control{
+  margin: 20px 0px;
+  text-align: right;
+}
+.astra-product-control button{
+  background: #14b6ef;
+  color: #fff;
+  font-weight: 600;
+}
+.astra-product-detail{
+  
+}
+.astra-product-detail .astra-product-description{
+  text-align: left;
+  background: #14b6ef6e;
+  padding: 5px 15px;
+  box-shadow: 0px 0px 2px #696969;
+  margin-top: 30px;
+}
+.astra-product-detail .astra-product-description p{
+  font-size: 18px;
+  margin: 0;
+  font-weight: 500;
+}
+.astra-product-detail .astra-product-description small p{
+  margin: 0;
+  color: #4a4747;
+  font-size: 14px;
+  font-weight: 400;
+}
+.astra-product-detail .astra-product-description small{
+  color: #4a4747;
+}
+.astra-product-detail .astra-product-description .astra-price-text{
+  margin: 0;
+  color: #4a6afe;
+  font-size: 16px;
+  font-weight: 600;
+}
+.astra-container .ant-breadcrumb{
+  text-align: left;
+  margin-bottom: 20px;
+}
+.astra-pay{
+  background: #14b6ef;
+  color: #fff;
+  font-weight: 600;
+  -webkit-appearance: button;
+}

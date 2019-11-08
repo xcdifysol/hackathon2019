@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "order-laptop-fjspll",
+  "private_key_id": "3d58a26603a5487e041b5302ba6814a29aae8eab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrlB+aN6WHCQfi\nRw/g4NSkkzzZxEzeqKnFzBXNgETUY2zSCK3kKmA+5KYtNLIzZ2hO45hMq0IBCDrr\nXM5EkDfXELo+YMqxQrF0ByNYcYrnGqP9eFBsFF6AgHzM7KKiequykCBXGxEPLVGZ\nenaYObMaRcEjezSPGNOUAzyK9bxd8bQ6Qyfg/HVwkYkXYj3vRbzrYFZe4GtoS4Jf\nEfL/B6ufuZaQtIgP3ipVvfEmcTz/pWkZeGyOXcqKIbLRyVmYIBL/VJld2Tskczdw\nSf/FG+fZtalRYBGHHxxvd87TsCIhOG1j2qB+GqmNUuJwTemnidUdFf31WUZfm0g2\nZy5KAISPAgMBAAECggEALfxkP/QcJEYSW95J7i60L2vbCk6nf6Ha5s2dJlfzmq0P\nNHfpC1ckNpcXxtPx0v8rIMG1Rw87gIVRLVXRXuT8YmL0V9WfXcUPRJbJLWI5JVmp\njDzb6SvIbE6DpHTj3gJc1F32nQH/H384+JavBHuqeicp7bWOz6+KvYfkiSX1l4PI\nK3o0h5U/Ycm2QeAS9Rgio7WS80+V1cMM9mwsjsayWXKohGJ/cWHWLojRy6NtNAVH\n0ckMd1eCj1ptLOJZcySz9RiI5yE/KUSF/T35V4uc/WwwQYl/fJa822zivbvZ8+fv\naGQliNicRBAmPRvSXHYu1ZXIeRs3z4k+u6jbW9GymQKBgQDwraUWxNRuSlcxI44U\nC0VhglmOpqNcI4Ec09Hl01775ZPS32Q66xAEqPJKtD5WlQCYd8hJq+JmZ4nT0jpn\nVCKU5O+N/xdQcuyOgu4dzjjBddRtpxY8UvYf/OH3nFfxLrihOFe4mfxuOxyemCmo\nyDaagYrEVrZwLOrn7pYHGowbjQKBgQC2gFrZdAsgmITvVB4DxqllMSUdUSkIQNtw\nLSfX9cJKuWO4iuUuhk3ei9t1aTe9t93gUA77qMDEVBLbaI8/XytXoShImizf0/hS\neZv4+El/mYpQ2IlkQCbO2zvIZke2StYlgarXQwKY0ieoMzsg4JmIHipgiPforpXg\nN2INRtiLiwKBgQDSdjZAI9zTmSSH7tyGQJjqPM9NxABkSRPVfpE01VJhGg/bPcfr\nEbTPLmG528YLdn6v1UcKzUjMXcwTs+mog9U9uLiWxjPAAM9Fi87nt3bADea2AH+c\nPrvFmyCKo2fvmviO2rMy1Uz9o6lSMiNz2aiOEaukJ2Of0leUe3ksOxW73QKBgQCA\nisdyghmUS9jV+Rlq73JAo+zQSWntNkFZMXTu11qR5yIlyS7DJjWSmk9o00M/jVHp\nvHnRJ3sezVi60VqT+CQ/BHOrL2yL+nDdJmqFYdvi0/JoHxwmUEkFScVB0UiRTQSo\nRjxeggRCP0NPZUYwUgHRre2LMO3sJYvK8TdOwqejIQKBgCNpIIBR1kG402yUOWPx\n1GJb54fAX94/Xu7QfnX+6btqYEnEALDOgJvz7DzJ4HYZ64Yt6GIUfS1FhWNGWA85\n9oExbqThyQkbe3YBFVexzfl/lBMYoHEu2icJ4mbZx19mKTnt8AutppuAtCPwxd7w\n1tIJZQzD5qkR2jmq012jbl0c\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-qhppqc@order-laptop-fjspll.iam.gserviceaccount.com",
+  "client_id": "103825453973337377932",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-qhppqc%40order-laptop-fjspll.iam.gserviceaccount.com"
+}
